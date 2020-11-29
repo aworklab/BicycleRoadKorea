@@ -1,12 +1,17 @@
 Package: bicycleRoadKoreaRthon
-Title: What the Package Does (One Line, Title Case)
+Title: This package is designed to provide the following
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    c[person(given = "Heeyoung",
+           family = "Joe",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "heeyoungjoe2000@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+           person(given="Chaeyeon",
+           family="Kim",
+           role=c("aut","cre"),
+           email="",
+           comment=c(ORCID="YOUR-ORCID-ID"))]
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
